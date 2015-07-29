@@ -2,6 +2,7 @@
 
 > This is a simple exercise to learn how to use ng-click in AngularJS.
 
+>Deployed site: http://development.maxhlikesbutton.divshot.io/
 
 ## Usage
 
