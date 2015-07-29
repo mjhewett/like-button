@@ -1,6 +1,6 @@
-## Welcome to My Repo
+## Angular Like  (Introduction to Angular)
 
-> I am your Readme.md file, you should probably update me.
+> This is a simple exercise to learn how to use ng-click in AngularJS.
 
 
 ## Usage

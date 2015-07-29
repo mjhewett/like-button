@@ -31,11 +31,22 @@ $scope.moreLikes = function(x) {
 };
 
 
+$scope.likes = function (){
+
+
+
+
+};
+
 
     $scope.wow = function(x){
 
+ if($scope.allLikes.length === 1){
 
-    return $scope.allLikes.length;
+    return 'Like : ' + $scope.allLikes.length;
+  }else{
+    return 'Likes : ' + $scope.allLikes.length;
+  }
 
     };
 
