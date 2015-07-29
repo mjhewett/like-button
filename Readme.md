@@ -1,4 +1,4 @@
-## Angular Like  (Introduction to Angular)
+## Angular Like Button  (Introduction to Angular)
 
 > This is a simple exercise to learn how to use ng-click in AngularJS.
 
